@@ -1,0 +1,19 @@
+{
+    "name": "anwar/contact",
+    "description": "Send email to the website admin and its store to the database table",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anwar\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anwar7736",
+            "email": "anwarhossain7736@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

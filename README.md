@@ -1,3 +1,6 @@
+## What is this package?
+This is a contact us package. When any visitor visit your website (Contact us page) and they can send a message to you. This package automatically send a mail to you and it's store to your database table.
+
 ## Installation
 
 ```sh

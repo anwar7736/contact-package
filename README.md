@@ -10,12 +10,12 @@ composer require anwar7736/contact
 ## Configuration
 1. Open <b>config/app.php</b> and add this line to your Service Providers Array. 
 ```php
-Anwar\ShoppingCart\ShoppingCartServiceProvider::class
+Anwar\Contact\ContactServiceProvider::class
 ```
 2. Optional configuration file (useful if you plan to have full control)
 
 ```php
-php artisan vendor:publish --provider="Anwar\ShoppingCart\ShoppingCartServiceProvider"
+php artisan vendor:publish --provider="Anwar\Contact\ContactServiceProvider"
 ```
 3. Check your database connection and run this command
 ```sh
